@@ -1,0 +1,45 @@
+.border-right{
+    border-right: 2px red ridge;
+}
+button{color: white;
+background-color: red;}
+span{text-align: center;}
+.aboutus{color: red
+    ;}
+    .contactnumber{position: absolute;
+        top: 40%;
+        left: 10%;
+
+    }
+.toper{
+    position: relative;
+}
+
+.background{
+    background-image: url("images/about.jpg");
+    width: 50%;height: 50%;
+}
+
+.to{
+    width: 100% !important;
+    overflow: hidden;
+    /* overflow: scroll !important; */
+}
+.too{
+    overflow: scroll !important;
+}
+.back{
+    background-image: url('images/IMG_6599.jpg');
+    /* background-position: fixed; */
+    width: 100%;
+    /* background-repeat: no-repeat; */
+    
+
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    
+}
+
